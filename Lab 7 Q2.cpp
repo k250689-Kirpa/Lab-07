@@ -1,5 +1,6 @@
 //Question 2: A class teacher has recorded the marks of her 10 students. 
-//Now, she wants to find out which student scored the highest marks in the class. Write a C program that finds the largest (highest) marks from the list of students' marks.
+//Now, she wants to find out which student scored the highest marks in the class. 
+//Write a C program that finds the largest (highest) marks from the list of students' marks.
 
 
 #include<stdio.h>
@@ -34,4 +35,5 @@ int main()
 	printf("The highest marks in the class is %d", highestMarks);
 	return 0;
 }
+
 
