@@ -1,3 +1,8 @@
+//Question 4: A shopkeeper keeps track of the daily sales of different product IDs. At the end of the day, he wants to
+//find out which product ID was sold the most number of times, in other words, the most frequent item in his sales
+//record. You are required to help the shopkeeper by writing a C program that finds the most frequent element in
+//the array of integers.
+
 #include <stdio.h>
 
 int main (void)
@@ -28,3 +33,4 @@ int main (void)
 	
 	return 0;
 }
+
