@@ -1,4 +1,3 @@
-
 //Question 5: A shopkeeper is checking the prices of items in his store. He has a list of item prices stored in an array.
 //A customer comes and says:
 //“I want to buy two items whose total price is exactly equal to my budget.”
@@ -38,4 +37,5 @@ int main()
 	}
 	return 0;
 }
+
 
