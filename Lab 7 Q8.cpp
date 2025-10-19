@@ -1,3 +1,9 @@
+//Question 8: A software company wants to rotate the weekly shifts of its employees. The employees are identified
+//by unique IDs stored in an array. Every Monday, management performs a right circular rotation of the employee
+//list to assign new shift orders. Write a C program that takes an array of employee IDs and rotates it right by k
+//positions to represent the new shift order.
+
+
 #include <stdio.h>
 
 int main (void)
@@ -53,3 +59,4 @@ int main (void)
 	
 	return 0;
 }
+
