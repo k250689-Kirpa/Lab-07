@@ -1,3 +1,9 @@
+//Question 7: A class teacher has two sections, Section A and Section B. Each section’s roll numbers are stored
+//separately in two arrays. Now, the teacher wants to combine both sections’ roll numbers into one list so she can
+//prepare a single attendance sheet for the whole class. Write a C program that merges the roll numbers of both
+//sections into one new array and displays the final combined list.
+
+
 #include<stdio.h>
 int main() {
 	
@@ -24,3 +30,4 @@ int main() {
 	return 0;
 	
 }
+
