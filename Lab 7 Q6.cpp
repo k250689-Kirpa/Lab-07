@@ -1,3 +1,9 @@
+//Question 6: A shopkeeper keeps a record of daily sold items using an array of item codes. However, one of the
+//items (say item code 3) was found to be defective. Now the shopkeeper wants to remove all occurrences of that
+//defective item code (3) from the record, so that only valid items remain in the list. Write a C program that helps the
+//shopkeeper remove all occurrences of a given item code from the array and display the updated list of items.
+
+
 #include<stdio.h>
 int main()
 {
@@ -26,3 +32,4 @@ int main()
         
 		return 0;
 }
+
